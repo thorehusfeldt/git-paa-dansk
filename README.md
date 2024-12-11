@@ -210,7 +210,7 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 
 `BØJNING` -r, -de, -t  
 `UDTALE` [ˈhɑlə]  
-`GRAMMATIK` verbum, *nogen* gafler *noget*  
+`GRAMMATIK` verbum, *nogen* haler *noget*  
 `ENGELSK` *pull*  
 `OPRINDELSE`  alm. i betydningen »trække langsomt og jævnt«, fra middelnedertysk *halen*, beslægtet med hole »hente hjem«  
 `ALTERNATIV` trække  
