@@ -9,7 +9,7 @@ Sig derfor /bwæːnɕ/, ikke /bɹɑːntʃ/.
 
 Dette dokument forsøger at etablere en ren dansk fagjargon, som kan anvendes ikke mindst i skriftlig fremstilling.
 Det er underforstået, at kommunikation i kampens hede blandt udviklere bedst foregår på cirkussprog.
-Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminologi kan udsætte sig for et betydeligt tab af social status bland fagfæller.
+Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminologi kan udsætte sig for et betydeligt tab af social status blandt fagfæller.
 
 ## Oversigt
 
